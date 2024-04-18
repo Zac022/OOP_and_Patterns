@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{7056E223-B944-7F6B-F00D-1CE9B20A7FD5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SimpleItemFactory.cs">
+    <Files>
+      <File FileName="Assets/Inventory.cs" Line="5" Column="35" />
+      <File FileName="Assets/PlayerController.cs" Line="19" Column="43" />
+      <File FileName="Assets/GameManager.cs" Line="37" Column="5" />
+      <File FileName="Assets/TextMesh Pro/IInventoryObserver.cs" Line="9" Column="1" />
+      <File FileName="Assets/IItemFactory.cs" Line="10" Column="1" />
+      <File FileName="Assets/Item.cs" Line="12" Column="1" />
+      <File FileName="Assets/SimpleItemFactory.cs" Line="9" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OOP" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="TextMesh Pro" expanded="True" />
+              <Node name="SimpleItemFactory.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="17b5f59a-1e14-451d-9e9a-dec6f5ea1d7e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
